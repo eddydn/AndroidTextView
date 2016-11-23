@@ -1,0 +1,4 @@
+AndroidTextView.MainActivity, AndroidTextView;md56dccfc351a8f7844441377dd6b66abfa.MainActivity
+AndroidTextView.MainActivity, AndroidTextView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56dccfc351a8f7844441377dd6b66abfa.MainActivity
+AndroidTextView.MainActivity;md56dccfc351a8f7844441377dd6b66abfa.MainActivity
+androidtextview.MainActivity;md56dccfc351a8f7844441377dd6b66abfa.MainActivity
